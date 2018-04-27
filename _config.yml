@@ -33,7 +33,7 @@ github_username: jing4seven
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
@@ -50,3 +50,6 @@ plugins:
 #   - vendor/ruby/
 
 #theme: jekyll-theme-awesome
+theme: jekyll-theme-hydeout
+
+disqus.shortname: disqus_0NCc7cpeFM

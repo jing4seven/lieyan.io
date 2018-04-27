@@ -3,7 +3,7 @@ layout: post
 title:  "《如何阅读一本书》读书笔记"
 author: "乐心炎"
 date:   2018-04-13 10:40:45 +0800
-categories: 读书笔记 
+categories: ["读书笔记"]
 tags: ["读书","学习"]
 ---
 
