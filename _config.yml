@@ -51,5 +51,6 @@ plugins:
 
 #theme: jekyll-theme-awesome
 theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
 
 disqus.shortname: disqus_0NCc7cpeFM
