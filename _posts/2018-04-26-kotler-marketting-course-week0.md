@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "科特勒营销课程之WEEK0课前准备"
+title:  "科特勒营销课程之WEEK0-课前准备"
 author: "乐心炎"
 date:   2018-04-26 12:28:22 +0800
 categories: ["课程"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "科特勒营销课程之WEEK1如何高效地搜集决策信息"
+title:  "科特勒营销课程之WEEK1-如何高效地搜集决策信息"
 author: "乐心炎"
 date:   2018-04-26 15:12:23 +0800
 categories: ["课程"]
