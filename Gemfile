@@ -32,4 +32,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Add a new theme by Jing
 gem "jekyll-theme-hydeout", "~> 3.3"
 
+# comments by disqus
+gem 'disqus-for-jekyll'
+
 

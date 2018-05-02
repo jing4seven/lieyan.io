@@ -37,6 +37,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - disqus-for-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,7 +55,10 @@ plugins:
 theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 
-disqus.shortname: disqus_0NCc7cpeFM
+#disqus.shortname: disqus_0NCc7cpeFM
+disqus:
+    shortname: "disqus_0NCc7cpeFM"
+    noscript: "Please switch your noscript tag on."
 
 # pagnation
 paginate: 10
