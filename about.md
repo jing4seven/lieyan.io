@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: 关于烈焰
 permalink: /about/
 ---
 
-Yes, Just Me!
+生活经历、学习杂记、记录生活

@@ -36,6 +36,7 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -54,3 +55,10 @@ theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 
 disqus.shortname: disqus_0NCc7cpeFM
+
+# pagnation
+paginate: 10
+paginate_path: "blog/page:num"
+
+
+
