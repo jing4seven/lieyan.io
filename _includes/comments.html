@@ -1,0 +1,10 @@
+{% if page.comments != false %}
+  <section class="comments">
+    <h2>Comments</h2>
+    {% if site.disqus.shortname %}
+        {% include disqus.html %}
+    {% elsif site.livere_uid %}
+        {% include livere.html %}
+    {% endif %}
+  </section>
+{% endif %}

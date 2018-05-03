@@ -37,7 +37,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - disqus-for-jekyll
+#  - disqus-for-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -56,13 +56,18 @@ theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 
 #disqus.shortname: disqus_0NCc7cpeFM
-disqus:
-    shortname: "disqus_0NCc7cpeFM"
-    noscript: "Please switch your noscript tag on."
+#disqus:
+#    shortname: "disqus_0NCc7cpeFM"
+#    noscript: "Please switch your noscript tag on."
 
 # pagnation
 paginate: 10
 paginate_path: "blog/page:num"
+
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+livere_uid: MTAyMC8zNjE4OC8xMjcyMw
+
 
 
 
