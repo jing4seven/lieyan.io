@@ -203,7 +203,7 @@ tags: ["营销","学习","课程"]
 
 “4R"是数字营销中独有的，企业可以利用数据、实时的反馈网络和关系来实现。
 
-推荐书籍：[数字时代的营销战略](http://product.china-pub.com/5049366](http://product.china-pub.com/5049366)
+推荐书籍：[数字时代的营销战略](http://product.china-pub.com/5049366]
 
 
 #### A. Recongnize
