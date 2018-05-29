@@ -26,7 +26,7 @@ tags: ["营销","学习","课程"]
 课程笔记由如上的框架构成
 
 * 0 [课前准备](https://lieyan.io/%E8%AF%BE%E7%A8%8B/2018/04/26/kotler-marketting-course-week0.html)
-* 1 [营销的核心基本功]
+* 1 营销的核心基本功
   * 1.1 [营销的底层思维](https://lieyan.io/%E8%AF%BE%E7%A8%8B/2018/04/26/kotler-marketting-course-week1.1.html)
   * 1.2 [如何高效地搜集决策信息](https://lieyan.io/%E8%AF%BE%E7%A8%8B/2018/04/26/kotler-marketting-course-week1.2.html)
   * 1.3 [如何洞察用户需求、行为和心理](https://lieyan.io/%E8%AF%BE%E7%A8%8B/2018/04/26/kotler-marketting-course-week1.3.html)
